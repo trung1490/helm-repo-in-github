@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   aerospike:
   - apiVersion: v3.14.1.2
-    created: 2017-09-29T16:47:22.6123528Z
+    created: "2020-12-21T16:18:05.768696+07:00"
     description: A Helm chart for Aerospike in Kubernetes
     digest: 4aa501a77dcae10d01f25c370e5c577c8f697cbe9c99fdf0c2efaf480b5276bf
     home: http://aerospike.com
@@ -16,4 +16,15 @@ entries:
     urls:
     - aerospike-0.1.2.tgz
     version: 0.1.2
-generated: 2017-09-29T16:47:22.6044312Z
+  newconfig:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-12-21T16:18:05.769268+07:00"
+    description: A Helm chart for Kubernetes from Trudsds
+    digest: 58eca2825b5306606f394935a7848c9624d2c6c77ba9170540fc754c784fc3bb
+    name: newconfig
+    type: application
+    urls:
+    - newconfig-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-12-21T16:18:05.766871+07:00"
